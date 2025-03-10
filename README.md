@@ -14,11 +14,11 @@ I have developed the classes, to handle very large numbers in programming langua
 ## Python
 
 Install the class:
-'''python
+```python
 pip install git+http://github.com/ali/BigNumer.git
-'''
+```
 
 then call the class in your code:
-'''python
+```python
 import bignumber
-'''
+```
