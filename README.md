@@ -9,5 +9,16 @@ I have developed the classes, to handle very large numbers in programming langua
 ###4- basic mathermatical operations: addition, subtraction, multiplication and division are available. more functions to release.
 ###5- value display function
 
-examples of BIFNUM class in Python:
+# Usage
 
+## Python
+
+Install the class:
+'''python
+pip install git+http://github.com/ali/BigNumer.git
+'''
+
+then call the class in your code:
+'''python
+import bignumber
+'''
